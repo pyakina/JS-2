@@ -1,0 +1,14 @@
+{
+  "name": "assignment8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^4.1.0"
+  }
+}
